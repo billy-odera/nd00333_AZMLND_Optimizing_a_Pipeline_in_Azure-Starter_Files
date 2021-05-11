@@ -59,8 +59,10 @@ The best performing model was obtained through AutoML - <strong> VotingEnsemble 
 <img src = 'https://github.com/billy-odera/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/blob/master/explanation2.jpg'>
 
 ## Future work
-**What are some areas of improvement for future experiments? Why might these improvements help the model?**
-
+<ol>
+  <li> work on this error WARNING:azureml.train.sklearn:'SKLearn' estimator is deprecate</li>
+  <li> feature engineering</li>
+</ol>
 ## Proof of cluster clean up
 <img src = 'https://github.com/billy-odera/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/blob/master/explanation4.jpg'>
 <img src = 'https://github.com/billy-odera/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/blob/master/explanation5.jpg'>
